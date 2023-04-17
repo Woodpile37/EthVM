@@ -27,7 +27,7 @@
         "@babel/core": "^7.4.5",
         "@commitlint/config-conventional": "^11.0.0",
         "@sentry/browser": "^5.23.0",
-        "@sentry/integrations": "^5.23.0",
+        "@sentry/integrations": "^7.45.0",
         "apollo-cache-inmemory": "^1.6.5",
         "apollo-client": "^2.6.8",
         "apollo-link": "^1.2.14",
